@@ -1,0 +1,74 @@
+ID: BCS21211
+Name: Huzaifa Hameed
+DOB: 5-December-2000
+Age: 22
+Result Card:
+1st Semester:
+Course Code: GE-161
+Course Name: Intro to Info. & Comm. Technology
+Marks: 80
+Credit Hours: 3
+Grade: A-
+GPA: 3.7
+
+Course Code: GE-152
+Course Name: Probability & Statistics
+Marks: 35
+Credit Hours: 3
+Grade: F
+GPA: 2
+
+Course Code: CC-111
+Course Name: Discrete Structures
+Marks: 55
+Credit Hours: 3
+Grade: D
+GPA: 2
+
+Semester CGPA: 2.56667
+2nd Semester:
+Course Code: CC-112
+Course Name: Programming Fundamentals
+Marks: 85
+Credit Hours: 4
+Grade: A
+GPA: 4
+
+Course Code: CC-215
+Course Name: Digital Logic Design
+Marks: 85
+Credit Hours: 4
+Grade: A
+GPA: 4
+
+Course Code: GE-164
+Course Name: Communication and Presentation Skills
+Marks: 85
+Credit Hours: 3
+Grade: A
+GPA: 4
+
+Semester CGPA: 4
+3rd Semester:
+Course Code: CC-114
+Course Name: OOP
+Marks: 35
+Credit Hours: 4
+Grade: F
+GPA: 2
+
+Course Code: CC-220
+Course Name: Computer Organization and Assembly Language
+Marks: 80
+Credit Hours: 4
+Grade: A-
+GPA: 3.7
+
+Course Code: GE-165
+Course Name: Professional Ethics
+Marks: 75
+Credit Hours: 3
+Grade: B+
+GPA: 3.3
+
+Semester CGPA: 2.97273
